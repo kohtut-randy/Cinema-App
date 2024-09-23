@@ -45,7 +45,7 @@ const App = () => {
 
   return (
     <Router>
-      <Container>
+      <Container sx={{ backgroundImage }}>
         <Typography variant="h3" gutterBottom>
           Cinema Booking System
         </Typography>
